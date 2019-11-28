@@ -1,6 +1,6 @@
 <?php
 
 
-error_log("You messed up!", 0, "errors.log");
+error_log("You messed up!", 3, "errors.log");
 
  ?>
